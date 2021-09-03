@@ -1,3 +1,2 @@
 # ALBOSED
-Active Learning-Based Optimization of Scientific Experimental Design
-Codes should be in the master branch
+Codes for Active Learning-Based Optimization of Scientific Experimental Design should be in the master branch
